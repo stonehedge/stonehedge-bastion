@@ -1,4 +1,9 @@
-stonehedge-bastion
-==================
+Stonehedge Cookbook: Bastion
+===========================
 
-Stonehedge Recipe: Bastion
+Use this Chef Cookbook to configure Stonehedge Bastion instances.
+
+
+Components
+----------
+  - stonehedge-base
